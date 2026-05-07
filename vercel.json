@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/report.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
